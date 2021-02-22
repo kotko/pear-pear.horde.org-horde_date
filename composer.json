@@ -1,0 +1,10 @@
+{
+    "name": "pear-pear.horde.org/horde_date",
+    "authors": [
+        {
+            "name": "Kotko Vladyslav",
+            "email": "m@kotko.me"
+        }
+    ],
+    "require": {}
+}
