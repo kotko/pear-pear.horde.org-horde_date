@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '52de6f5da60ec3323d08aa8fbcfaf45ab0993b94',
+    'reference' => 'f5cb2c82a24609c6e4db2ef3105e8859685f6f36',
     'name' => 'pear-pear.horde.org/horde_date',
   ),
   'versions' => 
@@ -42,7 +42,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '52de6f5da60ec3323d08aa8fbcfaf45ab0993b94',
+      'reference' => 'f5cb2c82a24609c6e4db2ef3105e8859685f6f36',
     ),
   ),
 );

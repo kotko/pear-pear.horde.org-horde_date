@@ -14,5 +14,5 @@
   		"post-update-cmd": [
   			"php index.php"
   		]
-	  },
+	  }
 }
